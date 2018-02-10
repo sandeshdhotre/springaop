@@ -1,7 +1,7 @@
 package org.javaindeapth.app;
 
 import org.springframework.stereotype.Component;
-
+//Bean Class
 @Component(value="e2")
 public class Employee {
 	private int id;
