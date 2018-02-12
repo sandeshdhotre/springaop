@@ -1,6 +1,5 @@
-package org.javaindeapth.app;
+package org.javaindeapth.entity;
 
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 //Bean Class
 @Component(value="e2")
